@@ -7,4 +7,5 @@ In this second part of the project, we will play the full two-player version of 
 
 # Final Mark
 Project 1: 6.5 / 8.0
+
 Project 2: 18.6 / 22.0
